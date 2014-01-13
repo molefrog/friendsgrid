@@ -1,2 +1,5 @@
 node_modules/
 download/
+data/
+.DS_Store
+config.json
